@@ -8,7 +8,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning design pattern with React 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Keep learning and building values for others
+- 🥅 2023 Goals: Keep learning and building values for others
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
